@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984176757344",
+    "project_id": "rumor-app-yatheendra97",
+    "storage_bucket": "rumor-app-yatheendra97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984176757344:android:033aff59021c91b1919105",
+        "android_client_info": {
+          "package_name": "com.yatheendra.rumor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZWkXlguqZp2OmnaBV2ECqizaPqLZ40w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
